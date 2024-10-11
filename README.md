@@ -1,8 +1,17 @@
-# React + Vite
+# Unexpected 3D Reality
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple AR Example about a talk about an Unexpected 3D Reality.
 
-Currently, two official plugins are available:
+Install the dependencies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```shell
+npm install
+```
+
+Please execute the following command to run the server in DEV mode:
+
+```shell
+npm run dev
+```
+
+Please go to the link `https://localhost:8000`.
